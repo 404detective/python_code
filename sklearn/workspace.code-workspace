@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\Machine Learning\\TensorFlow"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\PID"
+		},
+		{
+			"path": "..\\t"
+		}
+	],
+	"settings": {}
+}
